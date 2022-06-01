@@ -34,7 +34,7 @@ npm run build
 ```sh
 npm test
 
-# run jest in watch mode.
+# run vitest in watch mode.
 npm run test:watch
 
 # collect coverage.
