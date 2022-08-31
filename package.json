@@ -22,7 +22,7 @@
     "@testing-library/vue": "6.6.0",
     "@typescript-eslint/eslint-plugin": "5.30.4",
     "@typescript-eslint/parser": "5.30.4",
-    "@vitejs/plugin-vue": "2.3.3",
+    "@vitejs/plugin-vue": "2.3.4",
     "autoprefixer": "10.4.7",
     "c8": "7.11.3",
     "eslint": "8.19.0",
