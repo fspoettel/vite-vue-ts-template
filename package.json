@@ -11,7 +11,7 @@
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",
     "test:watch": "vitest watch",
-    "types:check": "vue-tsc --noEmit"
+    "check": "vue-tsc --noEmit"
   },
   "dependencies": {
     "vue": "3.2.40"
