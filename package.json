@@ -30,7 +30,7 @@
     "@vitest/coverage-istanbul": "0.27.1",
     "autoprefixer": "10.4.13",
     "eslint": "8.36.0",
-    "eslint-config-prettier": "8.6.0",
+    "eslint-config-prettier": "8.8.0",
     "eslint-plugin-vue": "9.9.0",
     "husky": "8.0.3",
     "jsdom": "21.1.1",
