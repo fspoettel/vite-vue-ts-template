@@ -18,7 +18,7 @@
     "check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "vue": "3.2.45"
+    "vue": "3.2.47"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.16.5",
