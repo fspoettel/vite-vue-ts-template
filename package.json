@@ -19,14 +19,14 @@
     "check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "vue": "3.4.1"
+    "vue": "3.4.4"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "6.1.6",
+    "@testing-library/jest-dom": "6.2.0",
     "@testing-library/user-event": "14.5.2",
     "@testing-library/vue": "8.0.1",
-    "@typescript-eslint/eslint-plugin": "6.16.0",
-    "@typescript-eslint/parser": "6.16.0",
+    "@typescript-eslint/eslint-plugin": "6.17.0",
+    "@typescript-eslint/parser": "6.17.0",
     "@vitejs/plugin-vue": "5.0.2",
     "@vitest/coverage-istanbul": "1.1.1",
     "autoprefixer": "10.4.16",
