@@ -11,6 +11,7 @@
     "build": "vue-tsc --noEmit && vite build",
     "fmt": "prettier --write .",
     "lint": "eslint src",
+    "precommit:configure": "lefthook install",
     "preview": "vite preview",
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",

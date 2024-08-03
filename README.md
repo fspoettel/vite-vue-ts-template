@@ -17,7 +17,7 @@ additional features:
 npm i
 
 # (optional) install pre-commit hook.
-npx lefthook install
+npm run precommit:configure
 ```
 
 ## Develop
