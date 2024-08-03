@@ -15,6 +15,9 @@ additional features:
 ```sh
 # install dependencies.
 npm i
+
+# (optional) install pre-commit hook.
+npx lefthook install
 ```
 
 ## Develop
@@ -60,10 +63,6 @@ Serves the content of `./dist` over a local http server.
 ```sh
 npm run preview
 ```
-
-## Pre-commit hook
-
-To install the optional pre-commit hook, run `npx lefthook install`. Prettier will now be run automatically on commit via [lefthook](https://github.com/evilmartians/lefthook).
 
 ---
 
