@@ -13,11 +13,11 @@ export default defineConfig({
     },
   },
   test: {
-    environment: "jsdom",
+    environment: "happy-dom",
     setupFiles: "./test/setup.ts",
     passWithNoTests: true,
     coverage: {
-      provider: "istanbul",
+      provider: "v8",
     },
   },
 });
