@@ -4,7 +4,7 @@
 
 additional features:
 
-- [Vue Devtools](https://devtools.vuejs.org/)
+- [Vue Devtools](https://devtools.vuejs.org/).
 - [eslint](https://eslint.org/) for linting.
 - [vitest](https://vitest.dev) + [testing-library](https://testing-library.com/) for testing.
 - [prettier](https://prettier.io/) + [lefthook](https://github.com/evilmartians/lefthook) hook for code formatting.
@@ -53,8 +53,6 @@ npm run lint
 npm run fmt
 ```
 
-Prettier will be run automatically on commit via [lefthook](https://github.com/evilmartians/lefthook).
-
 ## Preview
 
 Serves the content of `./dist` over a local http server.
@@ -62,6 +60,10 @@ Serves the content of `./dist` over a local http server.
 ```sh
 npm run preview
 ```
+
+## Pre-commit hook
+
+To install the optional pre-commit hook, run `npx lefthook install`. Prettier will now be run automatically on commit via [lefthook](https://github.com/evilmartians/lefthook).
 
 ---
 
